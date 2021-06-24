@@ -21,16 +21,17 @@ const estudios = [{
 ];
 
 const lenguajesActuales = [
-    "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+
+]
+
+const lenguajesAprendiendo = [
+    "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg",
-]
-
-const lenguajesAprendiendo = [
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
 ]
 
