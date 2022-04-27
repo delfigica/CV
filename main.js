@@ -34,7 +34,10 @@ const lenguajesAprendiendo = [
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg",
     "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355"
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/250px-Vue.js_Logo_2.svg.png",
+    "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"
+
 ]
 
 // Cambia el nombre del H1 que con tiene el nombre del usuario
