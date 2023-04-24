@@ -2,10 +2,10 @@ const nombre = "Delfina Cañas";
 
 const experiencia = [
   {
-    lugar: "Huju plataforma",
+    lugar: "Trabajo freelance",
     periodo: "May 2022 - Actualidad",
     descripción:
-      "Desarrollo de plataforma de cursos de manera independiente. Mi tarea es el desarrollo total de la plataforma tanto FrontEnd como BackEnd. Actualmente me encuentro finalidando la misma.",
+      "He trabajado desarrollando software para diferentes clientes y en diferentes industrias. He utilizado varios lenguajes de programación y he trabajado en proyectos que involucran diseño, implementación y programación. He desarrollado habilidades para gestionar proyectos de manera autónoma, además de resolver problemas y tomar decisiones rápidamente.",
   },
   {
     lugar: "AguaZarca Inmobiliaria",
@@ -33,16 +33,16 @@ const lenguajesActuales = [
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png",
-  "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png",
   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
   "https://mui.com/static/logo.png",
+  "https://www.cmswire.com/-/media/6f319f84dc3d4db69457aeda6ffc092f.ashx",
 ];
 
 const lenguajesAprendiendo = [
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg",
   "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
