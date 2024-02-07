@@ -1,42 +1,75 @@
-.entry {
-    padding: 5px 5px 5px 5px;
+* {
+  font-family: "Inter", sans-serif;
 }
-a{
-    color: #555;
-    text-decoration: none;
+#name,
+#lastname {
+  font-family: "Montserrat", sans-serif;
+  text-align: end;
+  font-size: 3em;
+}
+#name {
+  font-weight: 300;
+}
+#lastname {
+  font-weight: 400;
+}
+.subtitle {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 1.2em;
+}
+.hr-language {
+    width: 250px;
+}
+a {
+  color: #555;
+  text-decoration: none;
+  display: flex;
 }
 a:hover {
-    font-weight: 400;
-    color:#333;
-    text-decoration: none;
+  font-weight: 400;
+  color: #333;
+  text-decoration: none;
 }
-@media print {
-	.no-printme  {
-		display: none;
-	}
-	.printme  {
-		display: block;
-	}
-}
-.floating-d {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-}
-.floating-p {
-    position: fixed;
-    bottom: 55px;
-    right: 10px;
-}
-.badge {
+.exp-position {
+    font-weight: bold;
+    font-weight: .8em;
     text-transform: uppercase;
 }
-@media (max-width: 768px){
-    .information{
-        margin-top: 25px;
-    }
+.box-image-icon {
+    width: 20px;
+    height: 1em;
+}
+.btn-download {
+    display: flex;
+}
+@media print {
+  .no-printme {
+    display: none;
+  }
+  .printme {
+    display: block;
+  }
+}
+.floating-d {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+.floating-p {
+  position: fixed;
+  bottom: 55px;
+  right: 10px;
+}
+.badge {
+  text-transform: uppercase;
+}
+@media (max-width: 768px) {
+  .information {
+    margin-top: 25px;
+  }
 }
 .languages {
-    margin: 10px 5px 10px 5px;
-    margin-top: 10px;
+  margin: 10px 5px 10px 5px;
+  margin-top: 10px;
 }
