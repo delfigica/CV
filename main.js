@@ -4,14 +4,14 @@ const experience = [
   {
     position: "Frontend developer",
     place: "codeCave",
-    time: "May 2023 - Now",
+    time: "Jun 2022 - Now",
     description:
       "I have worked developing software for various clients and across different industries. I have utilized several programming languages and have worked on projects involving design, implementation, and programming. I have developed skills to manage projects autonomously, as well as to solve problems and make decisions quickly.",
   },
   {
     place: "AguaZarca Inmobiliaria",
     position: "Secretary & Social Media Manager",
-    time: "May 2019 - May 2023",
+    time: "May 2019 - Jun 2022",
     description:
       "In my role as a secretary and social media manager, I carried out tasks such as social media administration, posting properties on digital platforms, document filing, payment verification and debt reconciliation, and customer service.",
   },
